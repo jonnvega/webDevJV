@@ -1,2 +1,0 @@
-# webDevJV
- Web Develepment Course
